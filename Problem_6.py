@@ -9,8 +9,7 @@ Hence the difference between the sum of the squares of the first ten natural num
 
 Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 """
-# Brute force
-# 0.00015760096721351147 on Repl.it
+
 import timeit
 
 tic = timeit.default_timer()
