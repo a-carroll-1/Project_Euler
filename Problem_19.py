@@ -6,7 +6,7 @@ If all the numbers from 1 to 1000 (one thousand) inclusive were written out in w
 
 NOTE: Do not count spaces or hyphens. For example, 342 (three hundred and forty-two) contains 23 letters and 115 (one hundred and fifteen) contains 20 letters. The use of "and" when writing out numbers is in compliance with British usage.
 """
-# 0.04874122503679246 on Repl.it
+# 0.0015599760226905346 on Repl.it
 import timeit
 import datetime
 
